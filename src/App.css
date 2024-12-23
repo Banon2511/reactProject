@@ -1,0 +1,27 @@
+/* Augmenter la largeur du sidebar */
+.Sidebar {
+  width: 300px; /* Ajuste cette valeur en fonction de la largeur désirée */
+margin-left: 140px;
+
+}
+SubMenu{
+  width: 100px;
+}
+.theme1{
+  text-align: center;
+}
+
+.custom-submenu:hover{
+  color: #FFC000;
+  cursor: pointer;
+}
+
+.custom-menuitem:hover{
+  color: #FFC000;
+  cursor: pointer;
+}
+
+.custom-menuitem{
+  color: black;
+  cursor: pointer;
+}
