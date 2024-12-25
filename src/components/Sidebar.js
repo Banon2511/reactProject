@@ -1,7 +1,7 @@
 import React from 'react';
 import { Sidebar as ProSidebar, Menu, MenuItem, SubMenu } from 'react-pro-sidebar';
 // import 'react-pro-sidebar/dist/css/styles.css';
-import './App.css'; // Assurez-vous que ce fichier contient vos styles
+import '../App.css'; // Assurez-vous que ce fichier contient vos styles
 
 const Sidebar = () => {
   return (
